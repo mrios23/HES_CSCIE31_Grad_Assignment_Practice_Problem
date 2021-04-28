@@ -12,3 +12,5 @@ Project Set-up Instructions:
   * To get the application to start, run the command "npm run start-dev".
   * Open your browser, and navigate to "localhost:8080". This should bring you to a home page with additional instructions on how to complete the practice problem.
   * Follow the instructions on the home page.
+
+To see the solution, please see this GitHub Repository: https://github.com/mrios23/HES_CSCIE31_Grad_Assignment_Practice_Solution.git. 
