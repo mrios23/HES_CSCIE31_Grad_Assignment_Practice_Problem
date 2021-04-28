@@ -3,7 +3,7 @@ Option #1: Create a Practice Set
 
 Author: Mya Rios
 
-In this practice problem, students will learn and practice creating separate routing behaviors into separate modules in express. To begin working on the practice problem, follow the set-up instructions below.
+In this practice problem, students will practice creating a separate routing module to handle specific behavior in express. To begin working on the practice problem, follow the set-up instructions below.
 
 Project Set-up Instructions:
   * Open terminal window.
